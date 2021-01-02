@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "37386583045",
+    "firebase_url": "https://covidfreeindia-aa1f1.firebaseio.com",
+    "project_id": "covidfreeindia-aa1f1",
+    "storage_bucket": "covidfreeindia-aa1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37386583045:android:d3b9474b0707c85b04306c",
+        "android_client_info": {
+          "package_name": "com.example.covid19india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37386583045-5i6joekk1nptca8lrmae3t5r6p8pru97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covid19india",
+            "certificate_hash": "8fc149642e809120a95c52fd35ddf509b6b014f0"
+          }
+        },
+        {
+          "client_id": "37386583045-io8tkhrdgqqog4tv92klodtkcpics2mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLw9K8wVqDNg9CbXE2v0v88X1WpBDwuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37386583045-io8tkhrdgqqog4tv92klodtkcpics2mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37386583045:android:d087610da277df4204306c",
+        "android_client_info": {
+          "package_name": "com.example.covidfreeindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37386583045-i3v6oesrqa7ctarc3ludd709k8qbo0r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covidfreeindia",
+            "certificate_hash": "8fc149642e809120a95c52fd35ddf509b6b014f0"
+          }
+        },
+        {
+          "client_id": "37386583045-io8tkhrdgqqog4tv92klodtkcpics2mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLw9K8wVqDNg9CbXE2v0v88X1WpBDwuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37386583045-io8tkhrdgqqog4tv92klodtkcpics2mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
